@@ -1,0 +1,42 @@
+.cards{
+
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+
+}
+.card{
+    width: 20rem;
+    justify-content: center;
+    margin: 0%;
+    padding: 0%;
+    border:none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(#1E1B1B);
+}
+.card-item{
+    display: flex;
+    padding: rem;
+
+
+    
+}
+.titulo-card h5{
+    margin-left: 45%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;  
+
+}
+.imagen img{
+    margin: auto; 
+    margin-left: 50%;
+    
+}
+.texto{
+    justify-content: center;
+    margin: auto;
+    margin-left: 39%;
+}
